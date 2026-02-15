@@ -3,4 +3,4 @@ numpy
 streamlit
 folium
 streamlit-folium
-scikit-learn
+watchdog
